@@ -14,9 +14,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/joãolimapaiva"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/16d2f0c0-a2e6-4437-8a90-c9561e8968a8"/></a>
+  <a href="https://www.linkedin.com/in/joãolimapaiva"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/16d2f0c0-a2e6-4437-8a90-c9561e8968a8"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://github.com/user-attachments/assets/cc036349-f448-4139-9ce4-91552f954e39"></a>
+  <a href="https://dev.to/joaolmpv"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://github.com/user-attachments/assets/cc036349-f448-4139-9ce4-91552f954e39"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
