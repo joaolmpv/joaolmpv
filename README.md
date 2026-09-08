@@ -10,10 +10,17 @@
   </a>
 </p>
 
-<p align="center">
-  Estudante de Ciência da Computação (UFJ, conclusão dez/2026), focado em <b>backend</b> e <b>arquitetura de sistemas distribuídos</b>.<br/>
-  Cofundador &amp; CEO da <b>Moo Tech</b> e criador do <b>VetEquine</b> — construo produtos que unem engenharia sólida a impacto real, do agro à saúde animal.
-</p>
+<div align="center">
+  <img align="center" title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" title="Node.js" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" title="Prisma" alt="Prisma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" />
+  <img align="center" title="Next.js" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" title="Tailwind CSS" alt="Tailwind CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" title="Git" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" title="GitHub Actions" alt="GitHub Actions" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" />
+</div>
 
 <br/>
 
@@ -47,27 +54,11 @@ Landing pages de alto impacto visual para clientes, com foco em performance e an
 
 <br/>
 
-## 🛠️ Stack
-
-<div align="center">
-  <img align="center" title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" title="Node.js" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" title="Prisma" alt="Prisma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" />
-  <img align="center" title="Next.js" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img align="center" title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" title="Tailwind CSS" alt="Tailwind CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" title="Git" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" title="GitHub Actions" alt="GitHub Actions" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" />
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=joaolmpv&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolmpv&theme=gruvbox&custom_title=Tecnologias&langs_count=6" />
+  <img alt="GitHub Stats" height="180" src="./profile/stats.svg" />
+  <img alt="Top Languages" height="180" src="./profile/top-langs.svg" />
 </p>
 
 <br/>
