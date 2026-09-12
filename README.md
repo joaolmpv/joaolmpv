@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/joaolmpv">
-    <img src="https://github.com/user-attachments/assets/d9dcb2b6-613d-4bfc-8b52-5eebcedf75c6" alt="João Lima" /></a>
+    <img src="./profile/header.png" alt="João Lima" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/joaolmpv/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer;Distributed%20Systems%20Architect;Founder%20%40%20Moo%20Tech&font=Fira%20Code&center=true&width=440&height=45&color=005f00&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer;Distributed%20Systems%20Architect;doing%20witchcraft&font=Fira%20Code&center=true&width=440&height=45&color=005f00&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
